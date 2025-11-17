@@ -1,19 +1,19 @@
 [
     {
         "name": "Threat Detection",
-        "icon": "https://img.icons8.com/color/48/000000/security-checked.png"
+        "icon": "https://img.icons8.com/color/48/000000/shield.png"
     },
     {
         "name": "Incident Response",
-        "icon": "https://img.icons8.com/color/48/000000/incident-management.png"
+        "icon": "https://img.icons8.com/color/48/000000/incident-response.png"
     },
     {
         "name": "SIEM (Splunk/Sentinel)",
-        "icon": "https://img.icons8.com/color/48/000000/analytics.png"
+        "icon": "https://img.icons8.com/color/48/000000/bar-chart.png"
     },
     {
         "name": "EDR (CrowdStrike/Defender)",
-        "icon": "https://img.icons8.com/color/48/000000/antivirus.png"
+        "icon": "https://img.icons8.com/color/48/000000/crowdstrike.png"
     },
     {
         "name": "Malware Analysis",
@@ -22,29 +22,5 @@
     {
         "name": "Vulnerability Assessment",
         "icon": "https://img.icons8.com/color/48/000000/vulnerability.png"
-    },
-    {
-        "name": "Network Security",
-        "icon": "https://img.icons8.com/color/48/000000/network.png"
-    },
-    {
-        "name": "Linux & Windows Security",
-        "icon": "https://img.icons8.com/color/48/000000/windows-10.png"
-    },
-    {
-        "name": "Firewall & IDS/IPS",
-        "icon": "https://img.icons8.com/color/48/000000/firewall.png"
-    },
-    {
-        "name": "Python Scripting",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
-    },
-    {
-        "name": "Cyber Threat Intelligence",
-        "icon": "https://img.icons8.com/color/48/000000/intelligence.png"
-    },
-    {
-        "name": "Cloud Security (AWS/Azure)",
-        "icon": "https://img.icons8.com/color/48/000000/cloud.png"
     }
 ]
