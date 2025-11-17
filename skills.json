@@ -8,12 +8,36 @@
         "icon": "https://img.icons8.com/color/48/000000/incident-response.png"
     },
     {
-        "name": "SIEM (Splunk/Sentinel)",
-        "icon": "https://img.icons8.com/color/48/000000/bar-chart.png"
+        "name": "SIEM - Splunk",
+        "icon": "https://img.icons8.com/color/48/000000/splunk.png"
     },
     {
-        "name": "EDR (CrowdStrike/Defender)",
+        "name": "SIEM - Wazuh",
+        "icon": "https://img.icons8.com/color/48/000000/monitor.png"
+    },
+    {
+        "name": "SIEM - Securonix",
+        "icon": "https://img.icons8.com/color/48/000000/analytics.png"
+    },
+    {
+        "name": "SIEM - AlienVault",
+        "icon": "https://img.icons8.com/color/48/000000/alien.png"
+    },
+    {
+        "name": "SIEM - Microsoft Sentinel",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-sentinel.png"
+    },
+    {
+        "name": "EDR - CrowdStrike",
         "icon": "https://img.icons8.com/color/48/000000/crowdstrike.png"
+    },
+    {
+        "name": "EDR - Microsoft Defender",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-defender.png"
+    },
+    {
+        "name": "EDR - Trend Micro",
+        "icon": "https://img.icons8.com/color/48/000000/trend-micro.png"
     },
     {
         "name": "Malware Analysis",
@@ -22,5 +46,17 @@
     {
         "name": "Vulnerability Assessment",
         "icon": "https://img.icons8.com/color/48/000000/vulnerability.png"
+    },
+    {
+        "name": "Threat Hunting",
+        "icon": "https://img.icons8.com/color/48/000000/virus.png"
+    },
+    {
+        "name": "Phishing Simulation",
+        "icon": "https://img.icons8.com/color/48/000000/phishing.png"
+    },
+    {
+        "name": "Cloud Security",
+        "icon": "https://img.icons8.com/color/48/000000/cloud-security.png"
     }
 ]
